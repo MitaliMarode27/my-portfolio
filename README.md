@@ -1,16 +1,78 @@
-# React + Vite
+# 🌐 Mitali Marode - Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal developer portfolio website built using **React**.  
+It showcases my projects, skills, internship experience and contact information.
 
-Currently, two official plugins are available:
+## 🚀 Live Website
+🔗 https://my-portfolio-seven-umber-63.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
 
-## React Compiler
+- Responsive design for all devices
+- Modern UI with smooth sections
+- Projects showcase with live links
+- Internship experience section
+- Certificate preview and download
+- Contact section with social links
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠 Tech Stack
 
-## Expanding the ESLint configuration
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+- Font Awesome
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 Project Structure
+
+
+my-portfolio
+│
+├── public
+│ └── internshipCertificate.pdf
+│
+├── src
+│ ├── assets
+│ ├── Images
+│ ├── LandingPage.jsx
+│ ├── Projects.jsx
+│ ├── Navbar.jsx
+│ ├── App.jsx
+│ └── main.jsx
+│
+└── index.html
+
+
+## 💼 Projects Included
+
+- Interior Design Website
+- Solar Energy Website
+- Billing Software (Full Stack Project)
+
+## 📜 Internship
+
+**Web Development Intern**  
+Digitron Software & Technology  
+Jun 2025 – Dec 2025 | Nagpur
+
+Worked on full-stack web development, implemented responsive UI components and improved website performance.
+
+## 📜 Certificate
+
+The internship certificate is available in the portfolio and can be viewed or downloaded.
+
+## 📬 Contact
+
+- LinkedIn: https://www.linkedin.com/in/mitali-marode-1307b231a/
+- GitHub: https://github.com/MitaliMarode27
+- Instagram: https://www.instagram.com/mitalimarode/
+
+## 👩‍💻 Author
+
+**Mitali Marode**  
+Computer Science Engineering Student | Frontend Developer
+
+---
+
+⭐ If you like this project, feel free to star the repository.
